@@ -1,0 +1,55 @@
+.font h2{
+    font-variant: small-caps;
+    font-size: large;
+    font-weight: 700;
+    line-height:normal;
+    font-family: 'Courier New', Courier, monospace;
+}
+.text-colour p{
+    color: blue;
+    background-color: antiquewhite;
+}
+.text-decoration{
+    text-decoration:underline solid 2px rebeccapurple ;
+}
+.text-alignment h2{
+    text-align: center;
+}
+.text-alignment h3{
+    text-align: right;
+}
+.text-alignment h4{
+    text-align:left;
+}
+.text-alignment p{
+    text-align:justify;
+}
+.text-transformation h2{
+    text-transform: uppercase;
+}
+.text-transformation h3{
+    text-transform: lowercase;
+}
+.text-transformation h4{
+    text-transform: capitalize;
+}
+.text-spacing p{
+    letter-spacing: 2px;
+    line-height:40px;
+}
+.text-shadow h1{
+    text-shadow: 2px 3px 5px yellow;
+    
+}
+.colour h2{
+    color:rgb(210, 55, 55);
+}
+.colour h3{
+    color: rgba(198, 157, 100,0.8);
+}
+.colour h4{
+    color: #d5555d;;
+}
+.colour h5{
+    color:rgb(238, 85, 9);
+}
